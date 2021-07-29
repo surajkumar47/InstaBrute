@@ -1,3 +1,2 @@
 # InstaBrute
-Brute force instagram account in termux, kali linux.
-
+Brute force instagram account in termux
